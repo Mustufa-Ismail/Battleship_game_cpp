@@ -9,7 +9,7 @@ The game will utilize Graphical User Interface, for placement and targeting of s
 
 group:
 Mustufa Ismail 24K-0742
-M.Hasheem Shuja 24K-0742
+M.Hasheem Shuja 24K-0521
 Ali Asghar 24K-0780
 
 made using SFML 2.6.2 and GCC 13.1.0 
