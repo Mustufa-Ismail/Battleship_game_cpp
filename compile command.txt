@@ -1,0 +1,1 @@
+g++ -o battleship.exe main.cpp Ship.cpp Player.cpp Game.cpp -I"E:\C++ Library\SFML-2.6.2\include" -L"E:\C++ Library\SFML-2.6.2\lib" -lsfml-graphics-s -lsfml-window-s -lsfml-system-s -lwinmm -lopengl32 -lgdi32 -lfreetype -DSFML_STATIC
